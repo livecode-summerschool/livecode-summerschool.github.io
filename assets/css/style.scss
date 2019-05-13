@@ -3,17 +3,22 @@
 
 @import "{{ site.theme }}";
 
+html, body {
+  background: none;
+}
+
 header {
   position: fixed;
-
+  bottom: 0px;
+  left: 0px;
 }
 
-h1 {
-  font-size: 200px;
-  font-color: rgba(200, 255, 255, 0.4);
+header h1 {
+  font-size: 700px;
+  color: rgba(200, 255, 255, 0.4);
 }
 
-#outer {
+.outer {
   position: absolute;
 }
 
