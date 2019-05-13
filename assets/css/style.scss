@@ -6,6 +6,9 @@
 html, body {
   background: none;
   font-family: 'Rubik', sans-serif;
+  text-shadow: none;
+  color: white;
+  font-size: 1.2em;
 }
 
 header {
@@ -29,4 +32,6 @@ header h1 {
   background: none;
   display: inline-block;
   text-align: left;
+  top: 0px;
+  left: 0px;
 }
