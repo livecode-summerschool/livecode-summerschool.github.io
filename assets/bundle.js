@@ -726,7 +726,7 @@ window.onload = function () {
  // .pixelate(20, 10)
   .modulatePixelate(osc(40, 0.0).rotate(0, -0.003).pixelate(50, () => 20 + mouse.x/1000))
   .diff(osc(40, 0.0001).thresh().rotate(Math.PI/2))
-  .color(0.3, 0.0, 0.6)
+//  .color(0.3, 0.0, 0.6)
  // .modulateRotate(osc(20, 0).thresh(0.3, 0.6), () => 0.1 + mouse.x * 0.002)
   .out(o0)
 }

@@ -8,7 +8,7 @@ html, body {
   font-family: 'Rubik', sans-serif;
   text-shadow: none;
   color: white;
-  font-size: 1.2em;
+  font-size: 1.05em;
 }
 
 header {
@@ -34,4 +34,21 @@ header h1 {
   text-align: left;
   top: 0px;
   left: 0px;
+}
+
+a {
+  color: #00FFF7;
+}
+
+h2 {
+  color: white;
+  font-size: 2em;
+}
+.inner {
+  width: 640px;
+}
+
+#main_content {
+  padding: 40px;
+  background-color: black;
 }
