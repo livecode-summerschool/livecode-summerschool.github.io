@@ -2,8 +2,9 @@
 
 [Hydra](https://github.com/ojack/hydra) x [TidalCycles](https://tidalcycles.org)
 
-Dates: 31st Aug-1st Sep 2019 (with optional pre-session on the 30th Aug)
-Place: Central venues, Sheffield UK
+<b>Dates:</b> 31st Aug-1st Sep 2019 (with optional pre-session on the 30th Aug)
+</br>
+<b>Place:</b> Central venues, Sheffield UK
 
 European live coding summer school! Learn to quickly+easily make algorithmic patterns with Hydra (for visuals) or TidalCycles (for music).
 
@@ -14,11 +15,12 @@ There'll also be social evening activity on the 31st Aug (hopefully outdoor if t
 
 You're welcome to 'mix-and-match', and join a beginners session in e.g. Tidal, and then do the intensive course in Hydra, if you are already know the Hydra basics, or vice-versa.
 
-Hydra: xxx
+Hydra: Explore building visual synths using Hydra, starting with basic pixel operations and building up to blending and modulating multiple sources and outputs. Use signal flow in Hydra to play with concepts in computer graphics such as fluid dynamics, feedback loops, and fractals. Learn how to dynamically add and edit your own functions, as well as live-code the editor from within itself. Depending on interest level of the participants, we can also explore midi and OSC control, techniques for synchronizing with audio, and how to use hydra-synth in tandem with other javascript libraries such as for 3D rendering, drawing, and machine learning. 
+
 
 Tidal: Learn how to make TidalCycles patterns through a wide range of techniques of repetition, symmetry, interference and glitch. Find out how to add your own sounds to TidalCycles, or use it to control MIDI synthesisers. Try out multichannel sound – sending TidalCycles patterns across multiple speakers in surround sound. Try linking up multiple laptops for ensemble play. Hang out with other nice people in the fine city of Sheffield, one of the crucibles of electronic music, with the rugged Peak District national park a stone’s throw away.
 
-The workshop will be lead by the creator of Hydra, [Olivia Jack]{https://ojack.github.io/}, and the creator of TidalCycles, [Alex McLean](http://slab.org/). I created TidalCycles (now a free/open source community project), and deeply involved with live coding, co-founding algorave and toplap and performing at sonar, transmediale, strp, sonic acts, blue dot, ars electronica, and resonate festivals, the ica, arnolfini, tate modern and around 50 algoraves.
+The workshop will be lead by the creator of Hydra, [Olivia Jack](https://ojack.github.io/), and the creator of TidalCycles, [Alex McLean](http://slab.org/). I created TidalCycles (now a free/open source community project), and deeply involved with live coding, co-founding algorave and toplap and performing at sonar, transmediale, strp, sonic acts, blue dot, ars electronica, and resonate festivals, the ica, arnolfini, tate modern and around 50 algoraves.
 
 ## Registration
 
@@ -26,6 +28,6 @@ The fee for this two day workshop is suggested minimum £30 for unwaged/underemp
 
 ## About us
 
-Olivia Jack is ...
+[Alex McLean](https://slab.org): I'm a live coding musician and researcher based in Sheffield UK. I've performed widely around the world, solo and in collaborations including [CCAI](http://ccai.lurk.org/) and [Slub](http://slub.org/). I enjoy organising strange events, co-founding the [Algorave](https://algorave.com/) and [TOPLAP](https://toplap.org) movements, the [International Conference on Live Coding](https://iclc.livecodenetwork.org/), and the [AlgoMech](https://algomech.com/) festival of algorithmic and mechanical arts. I also work part-time as a researcher on the [PENELOPE](http://penelope.hypotheses.org/) project, investigating patterns in ancient weaves.
 
-[Alex McLean](https://slab.org): I'm a live coding musician and researcher based in Sheffield UK. I've performed widely around the world, solo and in collaborations including [CCAI](http://ccai.lurk.org/) and [Slub](http://slub.org/). I enjoy organising strange events, co-founding the [Algorave](https://algorave.com/) and [TOPLAP](https://toplap.org] movements, the [International Conference on Live Coding](https://iclc.livecodenetwork.org/), and the [AlgoMech](https://algomech.com/) festival of algorithmic and mechanical arts. I also work part-time as a researcher on the [PENELOPE](http://penelope.hypotheses.org/) project, investigating patterns in ancient weaves.
+[Olivia Jack](https://ojack.github.io/): I am a programmer and artist who works frequently with open-source software, cartography, live performance, and experimental interfaces.  I develop experimental browser-based software such as [Hydra](https://hydra-editor.glitch.me/), [PIXELSYNTH](https://ojack.github.io/PIXELSYNTH/), and [maps for getting lost](http://ojack.github.io/ghost-map/). In Bogotá, I work with the multimedia performance laboratory ATI-erra, creating interactive visuals for dance performances. I frequently lead technology workshops for young people and am an adjunct professor of electronic art at [Pontificia Universidad Javeriana.](https://www.javeriana.edu.co/home) Originally from San Francisco, California, I currently live and work in Bogotá, Colombia.
