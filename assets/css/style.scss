@@ -2,3 +2,21 @@
 ---
 
 @import "{{ site.theme }}";
+
+header {
+  position: fixed;
+
+}
+
+h1 {
+  font-size: 200px;
+  font-color: rgba(200, 255, 255, 0.4);
+}
+
+#outer {
+  position: absolute;
+}
+
+#container {
+  background: none;
+}
