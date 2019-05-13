@@ -5,6 +5,7 @@
 
 html, body {
   background: none;
+  font-family: 'Rubik', sans-serif;
 }
 
 header {
@@ -20,8 +21,12 @@ header h1 {
 
 .outer {
   position: absolute;
+  text-align: center;
+  width: 100%;
 }
 
 #container {
   background: none;
+  display: inline-block;
+  text-align: left;
 }
