@@ -719,15 +719,16 @@ window.onload = function () {
     detectAudio: false
   })
 
-  // by default, hydra makes everything global.
-  // see options to change parameters
-  osc(20, -0.01, 1.1)
-	.kaleid(4)
-	.color(0.83,0.41,0.39)
-	//.rotate(0, 0.1)
-	.modulate(o0, () => mouse.x * 0.0003)
-	.scale(1.01)
-  	.out(o0)
+  osc(60, 0, 1.4)
+  .thresh()
+  //.color(-1.14, 0.6,.80)
+ // .rotate(0.92, 0.03)
+ // .pixelate(20, 10)
+  .modulatePixelate(osc(40, 0.0).rotate(0, -0.003).pixelate(50, () => 20 + mouse.x/1000))
+  .diff(osc(40, 0.0001).thresh().rotate(Math.PI/2))
+  .color(0.3, 0.0, 0.6)
+ // .modulateRotate(osc(20, 0).thresh(0.3, 0.6), () => 0.1 + mouse.x * 0.002)
+  .out(o0)
 }
 
 },{"hydra-synth":6}],4:[function(require,module,exports){
@@ -3280,7 +3281,7 @@ module.exports = function (constraints, cb) {
     }
 
     if (window.navigator.userAgent.match('Chrome')) {
-      
+
         var chromever = parseInt(window.navigator.userAgent.match(/Chrome\/(.*) /)[1], 10);
         var maxver = 33;
 
@@ -3920,7 +3921,7 @@ class VideoRecorder {
    console.log('MediaRecorder started', this.mediaRecorder)
  }
 
-  
+
    stop(){
      this.mediaRecorder.stop()
    }
@@ -7637,7 +7638,7 @@ var raf = require('raf')
 
 module.exports = Engine
 function Engine(fn) {
-    if (!(this instanceof Engine)) 
+    if (!(this instanceof Engine))
         return new Engine(fn)
     this.running = false
     this.last = now()
@@ -7651,7 +7652,7 @@ function Engine(fn) {
 inherits(Engine, EventEmitter)
 
 Engine.prototype.start = function() {
-    if (this.running) 
+    if (this.running)
         return
     this.running = true
     this.last = now()

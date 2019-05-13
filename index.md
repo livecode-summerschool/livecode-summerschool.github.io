@@ -3,7 +3,8 @@
 [Hydra](https://github.com/ojack/hydra) x [TidalCycles](https://tidalcycles.org)
 
 <b>Dates:</b> 31st Aug-1st Sep 2019 (with optional pre-session on the 30th Aug)
-</br>
+
+
 <b>Place:</b> Central venues, Sheffield UK
 
 European live coding summer school! Learn to quickly+easily make algorithmic patterns with Hydra (for visuals) or TidalCycles (for music).
