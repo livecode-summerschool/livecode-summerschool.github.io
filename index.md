@@ -7,7 +7,7 @@
 
 <b>Place:</b> Central venues, Sheffield UK
 
-European live coding summer school! Learn to quickly+easily make algorithmic patterns with Hydra (for visuals) or TidalCycles (for music).
+European live coding summer school! Learn to quickly+easily make algorithmic patterns with Hydra (for visuals) or TidalCycles (for music).  Hang out with other nice people in the fine city of Sheffield, one of the crucibles of electronic music, with the rugged Peak District national park a stone’s throw away.
 
 * 30th Aug - Beginner evening session - everything you need to get started with live coding in Tidal or Hydra, suitable for absolute beginners (whether you're a beginner in code, music and/or visual art!)
 * 31st Aug - 1st Sep - a two-day intensive course in TidalCycles or Hydra, from the ground up
@@ -18,14 +18,18 @@ You're welcome to 'mix-and-match', and join a beginners session in e.g. Tidal, a
 
 <b>Hydra:</b> Explore building visual synths using Hydra, starting with basic pixel operations and building up to blending and modulating multiple sources and outputs. Use signal flow in Hydra to play with concepts in computer graphics such as fluid dynamics, feedback loops, and fractals. Learn how to dynamically add and edit your own functions, as well as live-code the editor from within itself. Depending on interest level of the participants, we can also explore midi and OSC control, techniques for synchronizing with audio, and how to use hydra-synth in tandem with other javascript libraries such as for 3D rendering, drawing, and machine learning.
 
+<b>Tidal:</b> Learn how to make TidalCycles patterns through a wide range of techniques of repetition, symmetry, interference and glitch. Explore advanced patterning techniques e.g. based on polyrhythm, shared metre, and complex arpeggios. Find out how to add your own sounds to TidalCycles, or use it to control MIDI synthesisers. Try out multichannel sound – sending TidalCycles patterns across multiple speakers in surround sound. Try linking up multiple laptops for ensemble play, or synchronising with other software. Find out how to pattern lights using the DMX protocol.
 
-<b>Tidal:</b> Learn how to make TidalCycles patterns through a wide range of techniques of repetition, symmetry, interference and glitch. Find out how to add your own sounds to TidalCycles, or use it to control MIDI synthesisers. Try out multichannel sound – sending TidalCycles patterns across multiple speakers in surround sound. Try linking up multiple laptops for ensemble play. Hang out with other nice people in the fine city of Sheffield, one of the crucibles of electronic music, with the rugged Peak District national park a stone’s throw away.
-
-The workshop will be lead by the creator of Hydra, [Olivia Jack](https://ojack.github.io/), and the creator of TidalCycles, [Alex McLean](http://slab.org/). I created TidalCycles (now a free/open source community project), and deeply involved with live coding, co-founding algorave and toplap and performing at sonar, transmediale, strp, sonic acts, blue dot, ars electronica, and resonate festivals, the ica, arnolfini, tate modern and around 50 algoraves.
+The workshops will be lead by the creator of Hydra, [Olivia Jack](https://ojack.github.io/), and the creator of TidalCycles, [Alex McLean](http://slab.org/). 
 
 ## Registration
 
-The fee for this two day workshop is suggested minimum £30 for unwaged/underemployed, and maximum of £300 for those with strong institutional backing or surplus cash. Proceeds will go towards space hire, and Olivia and Alex’s time developing and documenting Hydra and TidalCycles, which are otherwise largely unfunded and volunteer-run projects. Please support free/open source software!
+The fee for this two day workshop is suggested minimum £50 for e.g. unsupported students or underemployed, and maximum of £300 for those with strong institutional backing or surplus cash. 
+
+Proceeds will go towards space and equipment hire, and Olivia and Alex’s time developing and documenting Hydra and TidalCycles, which are otherwise largely unfunded and volunteer-run projects. Please support free/open source software!
+
+Register here:
+ https://docs.google.com/forms/d/1QPl32wf2ZUBRyrMo7A6JZOHvWrBbuGBjUrME_wcXQM0/edit
 
 ## About us
 
