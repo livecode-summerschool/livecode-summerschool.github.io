@@ -28,8 +28,7 @@ The fee for this two day workshop is suggested minimum £50 for e.g. unsupported
 
 Proceeds will go towards space and equipment hire, and Olivia and Alex’s time developing and documenting Hydra and TidalCycles, which are otherwise largely unfunded and volunteer-run projects. Please support free/open source software!
 
-Register here:
- https://docs.google.com/forms/d/1QPl32wf2ZUBRyrMo7A6JZOHvWrBbuGBjUrME_wcXQM0/edit
+-> [Register here](https://docs.google.com/forms/d/e/1FAIpQLSd07WwnzpDnBxNwbdZN6C28-dMkrMPbEX9tZagqL_xNF__9kA/viewform) <-
 
 ## About us
 
