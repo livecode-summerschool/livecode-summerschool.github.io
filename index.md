@@ -24,7 +24,7 @@ The workshops will be lead by the creator of Hydra, [Olivia Jack](https://ojack.
 
 ## Registration
 
-The fee for this two day workshop is suggested minimum £50 for e.g. unsupported students or underemployed, and maximum of £300 for those with strong institutional backing or surplus cash. 
+The fee for this two day workshop is suggested minimum £30 for e.g. unsupported students or underemployed, and maximum of £300 for those with strong institutional backing or surplus cash. 
 
 Proceeds will go towards space and equipment hire, and Olivia and Alex’s time developing and documenting Hydra and TidalCycles, which are otherwise largely unfunded and volunteer-run projects. Please support free/open source software!
 
