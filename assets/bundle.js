@@ -718,17 +718,33 @@ window.onload = function () {
     canvas: document.getElementById('hydra'),
     detectAudio: false
   })
+// 
+// // black and white
+//   osc(60, 0, 1.4)
+//   .thresh()
+//   //.color(-1.14, 0.6,.80)
+//  // .rotate(0.92, 0.03)
+//  // .pixelate(20, 10)
+//   .modulatePixelate(osc(40, 0.0).rotate(0, -0.003).pixelate(50, () => 20 + mouse.x/1000))
+//   .diff(osc(40, 0.0001).thresh().rotate(Math.PI/2))
+// //  .color(0.3, 0.0, 0.6)
+//  // .modulateRotate(osc(20, 0).thresh(0.3, 0.6), () => 0.1 + mouse.x * 0.002)
+//   .out(o0)
 
+// color
   osc(60, 0, 1.4)
-  .thresh()
-  //.color(-1.14, 0.6,.80)
- // .rotate(0.92, 0.03)
- // .pixelate(20, 10)
-  .modulatePixelate(osc(40, 0.0).rotate(0, -0.003).pixelate(50, () => 20 + mouse.x/1000))
-  .diff(osc(40, 0.0001).thresh().rotate(Math.PI/2))
-//  .color(0.3, 0.0, 0.6)
- // .modulateRotate(osc(20, 0).thresh(0.3, 0.6), () => 0.1 + mouse.x * 0.002)
-  .out(o0)
+.thresh()
+//.color(-1.14, 0.6,.80)
+// .rotate(0.92, 0.03)
+// .pixelate(20, 10)
+.modulatePixelate(osc(40, 0.0).rotate(0.4, -0.001).pixelate(5, () => 10 + mouse.x/4000).scrollX(0, -0.0))
+.diff(osc(10, 0.0001).thresh(0.3, 0).rotate(Math.PI/2))
+.color(1.8, 0.2, -1.2)
+.diff(osc(3, -0.06, 1.2))
+.blend(solid(0, 0, 0), 0.4)
+// .blend(solid(1, 1, 1), 0.4)
+// .modulateRotate(osc(20, 0).thresh(0.3, 0.6), () => 0.1 + mouse.x * 0.002)
+.out(o0)
 }
 
 },{"hydra-synth":6}],4:[function(require,module,exports){
