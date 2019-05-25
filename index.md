@@ -2,15 +2,14 @@
 
 [Hydra](https://github.com/ojack/hydra) x [TidalCycles](https://tidalcycles.org)
 
-<b>Dates:</b> 31st Aug-1st Sep 2019 (with optional pre-session on the 30th Aug)
-
+<b>Dates:</b> Optional pre-session: 30th Aug, Main workshops 31st Aug-1st Sep 2019
 
 <b>Place:</b> Central venues, Sheffield UK
 
 European live coding summer school! Learn to quickly+easily make algorithmic patterns with Hydra (for visuals) or TidalCycles (for music).  Hang out with other nice people in the fine city of Sheffield, one of the crucibles of electronic music, with the rugged Peak District national park a stone’s throw away.
 
-* 30th Aug - Beginner evening session - everything you need to get started with live coding in Tidal or Hydra, suitable for absolute beginners (whether you're a beginner in code, music and/or visual art!)
-* 31st Aug - 1st Sep - a two-day intensive course in TidalCycles or Hydra, from the ground up
+* 30th Aug (around 5pm-7pm) - Beginner evening session - everything you need to get started with live coding in Tidal or Hydra, suitable for absolute beginners (whether you're a beginner in code, music and/or visual art!)
+* 31st Aug - 1st Sep (10am-5pm both days) - a two-day intensive course in TidalCycles or Hydra, from the ground up.
 
 There'll also be social evening activity on the 31st Aug (hopefully outdoor if the weather is good), and a chance to put it all into practice with a performance session on the 1st September.
 
