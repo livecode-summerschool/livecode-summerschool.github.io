@@ -36,6 +36,10 @@ Proceeds will go towards space and equipment hire, and Olivia and Alex’s time 
 
 [Olivia Jack](https://ojack.github.io/): I am a programmer and artist who works frequently with open-source software, cartography, live performance, and experimental interfaces.  I develop browser-based software such as [Hydra](https://hydra-editor.glitch.me/), [PIXELSYNTH](https://ojack.github.io/PIXELSYNTH/), and [maps for getting lost](http://ojack.github.io/ghost-map/). In Bogotá, I work with the performance laboratory ATI-erra, creating interactive visuals for dance and theater. Originally from San Francisco, California, I currently live and work in Bogotá, Colombia.
 
+## Community
+
+To make contact with other attendees, e.g. to team up on travel/accommodation, you can join [this thread](https://toplap.lurk.org/t/live-code-summer-school-30-aug-1-sep-2019/524) on the TOPLAP forum. There's also [this channel](https://talk.lurk.org/channel/summerschool) for chatter around and during the summer school.
+
 ## Contact
 
 Any questions, drop us an email at [summerschool@slab.org](mailto:summerschool@slab.org), ta!
