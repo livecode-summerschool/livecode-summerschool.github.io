@@ -5,10 +5,11 @@
 
 html, body {
   background: none;
-  font-family: 'Rubik', sans-serif;
+  // font-family: 'Rubik', sans-serif;
+  font-family: monospace;
   text-shadow: none;
   color: white;
-  font-size: 1.05em;
+  font-size: 1.1em;
 }
 
 header {
@@ -37,7 +38,14 @@ header h1 {
 }
 
 a {
-  color: #00FFF7;
+  color: white;
+  padding: 3px;
+  text-decoration: underline;
+}
+
+a:hover {
+  background-color: white;
+  color: black;
 }
 
 h2 {
@@ -45,7 +53,9 @@ h2 {
   font-size: 2em;
 }
 .inner {
-  width: 640px;
+  min-width: 460px;
+  max-width: 1200px;
+  width: 60%;
 }
 
 #main_content {
