@@ -1,4 +1,4 @@
-## Livecode Summer School
+## Live Code Summer School
 
 [Hydra](https://github.com/ojack/hydra) x [TidalCycles](https://tidalcycles.org)
 

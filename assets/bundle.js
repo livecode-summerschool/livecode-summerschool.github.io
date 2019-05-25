@@ -718,7 +718,7 @@ window.onload = function () {
     canvas: document.getElementById('hydra'),
     detectAudio: false
   })
-// 
+//
 // // black and white
 //   osc(60, 0, 1.4)
 //   .thresh()
@@ -737,7 +737,7 @@ window.onload = function () {
 //.color(-1.14, 0.6,.80)
 // .rotate(0.92, 0.03)
 // .pixelate(20, 10)
-.modulatePixelate(osc(40, 0.0).rotate(0.4, -0.001).pixelate(5, () => 10 + mouse.x/4000).scrollX(0, -0.0))
+.modulatePixelate(osc(40, 0.0).rotate(0.4, -0.001).pixelate(5, () => 10 + mouse.x/1000).scrollX(() => 10 + mouse.x/10000, -0.0))
 .diff(osc(10, 0.0001).thresh(0.3, 0).rotate(Math.PI/2))
 .color(1.8, 0.2, -1.2)
 .diff(osc(3, -0.06, 1.2))
