@@ -6,6 +6,8 @@
 
 <b>Place:</b> Central venues, Sheffield UK
 
+[Registration essential](https://livecode-summerschool.github.io/#registration)
+
 European live coding summer school! Learn to quickly+easily make algorithmic patterns with Hydra (for visuals) or TidalCycles (for music).  Hang out with other nice people in the fine city of Sheffield, one of the crucibles of electronic music, with the rugged Peak District national park a stone’s throw away.
 
 * 30th Aug (around 5pm-7pm) - Beginner evening session - everything you need to get started with live coding in Tidal or Hydra, suitable for absolute beginners (whether you're a beginner in code, music and/or visual art!)
