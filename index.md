@@ -12,7 +12,7 @@ European live coding summer school! Learn to quickly+easily make algorithmic pat
 
 * 30th Aug (around 5pm-7pm) - Beginner evening session - everything you need to get started with live coding in Foxdot, Tidal or Hydra, suitable for absolute beginners (whether you're a beginner in code, music and/or visual art!)
 * 31st Aug (10am-5pm) - twp-day intensive course in Foxdot, TidalCycles or Hydra begins, followed by evening activity (hopefully outdoor if the weather is good!)
-* 1st Aug (10am-5pm) - intensive course continues, followed by [closing party](https://www.facebook.com/events/676334176203653/) from 7:30pm !
+* 1st Sep (10am-5pm) - intensive course continues, followed by [closing party](https://www.facebook.com/events/676334176203653/) from 7:30pm !
 
 <b>FoxDot:</b>  Discover how to make music with FoxDot by creating and connecting musical layers with code. Learn how to create chord progressions, play melodies, trigger samples, apply effects, and algorithmically manipulate musical patterns. Find out how to create musical relationships in your code that react to the changes you make as you go. Learn about adding your own samples or synths and even using FoxDot to trigger your own MIDI devices. We'll also explore some advanced features, such as sending OSC data to Processing to create visuals that react to the music you play.
 
@@ -24,7 +24,7 @@ The workshops will be lead by the creator of Hydra, [Olivia Jack](https://ojack.
 
 ## Registration
 
-We're now full up. There might be last-minute drop outs - let alex@slab.org know if you'd like to go on the standby list.
+We're now full up. There might be last-minute drop outs - let alex@slab.org know if you'd like to go on the  last minute standby list.
 
 The registration fee will go towards space and equipment hire, and Olivia, Alex and Ryan’s time developing and documenting Hydra and TidalCycles, which are otherwise largely unfunded and volunteer-run projects. Thanks for supporting free/open source software!
 
